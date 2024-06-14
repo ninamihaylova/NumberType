@@ -1,0 +1,14 @@
+C:\Users\ninag\RiderProjects\NumberType\NumberType\bin\Debug\net8.0\NumberType.exe
+C:\Users\ninag\RiderProjects\NumberType\NumberType\bin\Debug\net8.0\NumberType.deps.json
+C:\Users\ninag\RiderProjects\NumberType\NumberType\bin\Debug\net8.0\NumberType.runtimeconfig.json
+C:\Users\ninag\RiderProjects\NumberType\NumberType\bin\Debug\net8.0\NumberType.dll
+C:\Users\ninag\RiderProjects\NumberType\NumberType\bin\Debug\net8.0\NumberType.pdb
+C:\Users\ninag\RiderProjects\NumberType\NumberType\obj\Debug\net8.0\NumberType.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ninag\RiderProjects\NumberType\NumberType\obj\Debug\net8.0\NumberType.AssemblyInfoInputs.cache
+C:\Users\ninag\RiderProjects\NumberType\NumberType\obj\Debug\net8.0\NumberType.AssemblyInfo.cs
+C:\Users\ninag\RiderProjects\NumberType\NumberType\obj\Debug\net8.0\NumberType.csproj.CoreCompileInputs.cache
+C:\Users\ninag\RiderProjects\NumberType\NumberType\obj\Debug\net8.0\NumberType.dll
+C:\Users\ninag\RiderProjects\NumberType\NumberType\obj\Debug\net8.0\refint\NumberType.dll
+C:\Users\ninag\RiderProjects\NumberType\NumberType\obj\Debug\net8.0\NumberType.pdb
+C:\Users\ninag\RiderProjects\NumberType\NumberType\obj\Debug\net8.0\NumberType.genruntimeconfig.cache
+C:\Users\ninag\RiderProjects\NumberType\NumberType\obj\Debug\net8.0\ref\NumberType.dll
